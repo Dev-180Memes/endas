@@ -2,7 +2,7 @@
 
 const AboutSection = () => {
   return (
-    <div className="px-7">
+    <div className="md:px-7">
         <div className="container mx-auto px-4 py-12 md:flex md:items-center md:space-x-8">
             <div className="md:w-1/2">
                 <h2 className="text-blue-600 text-xl font-semibold mb-2">About Us</h2>

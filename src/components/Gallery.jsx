@@ -2,7 +2,7 @@
 
 const GallerySection = () => {
   return (
-    <div className="bg-gray-900 px-7 py-12">
+    <div className="bg-gray-900 md:px-7 py-12">
       <div className="container mx-auto px-4 text-center">
         <h2 className="text-blue-400 text-xl font-semibold mb-2">All work and no play......</h2>
         <h3 className="text-3xl text-white font-bold mb-4">Here are some of our extracurricular activities/Gallery</h3>

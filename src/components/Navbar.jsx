@@ -8,7 +8,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="w-full z-20 bg-white px-7 fixed">
+    <nav className="w-full z-20 bg-white md:px-7 fixed">
       <div className="container mx-auto px-3 py-4 flex justify-between items-center drop-shadow">
         <div className="flex items-center gap-1">
           <img src="/logo.png" alt="St Endas College" className="w-11" />

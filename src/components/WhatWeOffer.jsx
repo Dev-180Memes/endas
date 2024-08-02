@@ -2,7 +2,7 @@
 
 const WhatWeOfferSection = () => {
   return (
-    <div className="bg-blue-100 px-7">
+    <div className="bg-blue-100 md:px-7">
         <div className="px-4 py-12 flex gap-8 flex-col">
             <div className="flex flex-col gap-2">
                 <p className="text-blue-600 font-semibold text-base">What we offer!</p>
